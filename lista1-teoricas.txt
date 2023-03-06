@@ -1,0 +1,10 @@
+1- Na programação, biblioteca é o termo usado  para definir o código-fonte compilado 
+produzido por terceiros que possibilita adicionar novas funções ao código-fonte do software.
+2- Swing é uma biblioteca do Java para criar interfaces gráficas.
+3 A- 
+6- A Biblioteca do swing é usada para criar interfaces gráficas. Já O pacote AWT (Abstract Windows Toolkit) possui os primeiros componentes gráficos que surgiram no java. Como janelas (Frame, Panel...), 
+alguns botões (Button, RadioButton, CheckBox...), Rótulos (Label), campos de texto (TextField), Listas (Choice, List,...) entre outros componentes. 
+Esses componentes eram muito utilizados quando ainda não existia o pacote Swing. Eles possuem uma aparência mais "padrão". 
+7- consiste em tudo o que vemos e sentimos que nos faz relacionar com a marca em si. 
+Vai além da parte digital. Por exemplo, se oferecemos um serviço em um estabelecimento, tudo, das sacolas às cores das instalações, 
+deve ser coerente com outros aspectos da marca, como a estratégia digital.
