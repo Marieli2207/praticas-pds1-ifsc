@@ -1,10 +1,16 @@
-1- Na programação, biblioteca é o termo usado  para definir o código-fonte compilado 
-produzido por terceiros que possibilita adicionar novas funções ao código-fonte do software.
+1- Na programação, biblioteca é o termo usado  para definir o código-fonte compilado produzido por terceiros que possibilita adicionar novas funções ao código-fonte do software.
 2- Swing é uma biblioteca do Java para criar interfaces gráficas.
-3 A- 
-6- A Biblioteca do swing é usada para criar interfaces gráficas. Já O pacote AWT (Abstract Windows Toolkit) possui os primeiros componentes gráficos que surgiram no java. Como janelas (Frame, Panel...), 
-alguns botões (Button, RadioButton, CheckBox...), Rótulos (Label), campos de texto (TextField), Listas (Choice, List,...) entre outros componentes. 
-Esses componentes eram muito utilizados quando ainda não existia o pacote Swing. Eles possuem uma aparência mais "padrão". 
-7- consiste em tudo o que vemos e sentimos que nos faz relacionar com a marca em si. 
-Vai além da parte digital. Por exemplo, se oferecemos um serviço em um estabelecimento, tudo, das sacolas às cores das instalações, 
-deve ser coerente com outros aspectos da marca, como a estratégia digital.
+3 A-JBotton
+B-JTextField
+C-JCheckbox
+D-JProgressBar
+E-JopcionPane
+J-Combobox
+4- São fornecidos para organizar componenetes Gui em um container para propósitos de apresentação processam a maioria dos detalhes,
+fornecendo uma maneira automática de posicionar os componenets gráficos nos containers. Todos os gerenciadores de layouts implementam a interface LayoutManager
+ou a subinterface LayoutManager2. Cada container como painel ou frame(molduras) possui um gerenciador de layout padrão associado os tipos de layouts no swing são:
+FlowLayout, BorderLayout,GridLayout,BoxLayout e GridBagLayout.
+5- Podemos usar uma regra de validação de campo para especificar um critério que deve ser atendido por todos os valores de campo válidos. Você não precisa especificar o campo atual como parte da regra, a menos que esteja usando o campo em uma função. As restrições nos tipos de caracteres a serem inseridos em um campo podem ser feitas de modo mais fácil como uma máscara de entrada. 
+6- A Biblioteca do swing é usada para criar interfaces gráficas. Já O pacote AWT (Abstract Windows Toolkit) possui os primeiros componentes gráficos que surgiram no java. Como janelas (Frame, Panel...), alguns botões (Button, RadioButton, CheckBox...), Rótulos (Label), campos de texto (TextField), Listas (Choice, List,...) entre outros componentes. Esses componentes eram muito utilizados quando ainda não existia o pacote Swing. Eles possuem uma aparência mais "padrão". 
+7- consiste em tudo o que vemos e sentimos que nos faz relacionar com a marca em si. Vai além da parte digital. Por exemplo, se oferecemos um serviço em um  estabelecimento, tudo, das sacolas às cores das instalações, deve ser coerente com outros aspectos da marca, como a estratégia digital.
+
